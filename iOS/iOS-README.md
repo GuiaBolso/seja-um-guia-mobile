@@ -48,7 +48,7 @@ Você deve desenvolver uma aplicação **iOS Nativa em Swift** que consuma a API
 - Utilização de RxSwift;
 
 ### Como enviar o seu teste
-Envie um email com:
+Envie um email para [frontmonstrao@guiabolso.com.br](mailto:frontmonstrao@guiabolso.com.br) com:
 - Código fonte compactado
 - O link do repositório público (caso haja)
 - Instruções de compilação
