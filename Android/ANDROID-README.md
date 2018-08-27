@@ -31,12 +31,14 @@ Você deve desenvolver uma aplicação **Android Nativa em Kotlin** que consuma 
 - Uma tela com o icone, a frase, e o link para a pagina da piada da categoria escolhida. Ex.:  [Categoria `science`](https://api.chucknorris.io/jokes/random?category=science)
 
 ### Quais são os requisitos?
-- Deve seguir o guideline do Material;
 - Deve ser escrita em Kotlin;
+- Deve ter injeção de dependência com Dagger2
+- Deve utilizar RXJava
 
 ### Ganhe bonus
 - Testes Unitário;
 - Testes Funcionais;
+- Clean Architecture (MVP)
 
 ### Como enviar o seu teste
 Envie um email para [frontmonstrao@guiabolso.com.br](mailto:frontmonstrao@guiabolso.com.br) com:
