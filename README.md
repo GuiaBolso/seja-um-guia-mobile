@@ -27,6 +27,7 @@ Temos um processo seletivo que é dividido em algumas etapas.
 Escolha a plataforma que você trabalha e vamos nessa:
 
 - [iOS com Swift](https://github.com/GuiaBolso/seja-um-guia-mobile/blob/master/iOS/iOS-README.md)
+- [Android com Kotlin](https://github.com/GuiaBolso/seja-um-guia-mobile/blob/master/Android/ANDROID-README.md)
 
 ## Licença
 
