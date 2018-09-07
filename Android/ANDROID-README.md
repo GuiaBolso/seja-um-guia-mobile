@@ -49,7 +49,7 @@ Envie um email para [frontmonstrao@guiabolso.com.br](mailto:frontmonstrao@guiabo
 
 ### Pontos de avaliação
 
-Veja, esse teste, além de um desafio, é uma forma de explorar e expressar sua desenvoltura com a plataforma iOS. O foco da avaliação é a sua familiaridade com o desenvolvimente, lembrando que há um caráter seletivo. 
+Veja, esse teste, além de um desafio, é uma forma de explorar e expressar sua desenvoltura com a plataforma Android. O foco da avaliação é a sua familiaridade com o desenvolvimente, lembrando que há um caráter seletivo. 
 
 Nesse sentido, alguns pontos que devem ser observados:
 
