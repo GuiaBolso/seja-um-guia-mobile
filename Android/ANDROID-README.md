@@ -31,14 +31,15 @@ Você deve desenvolver uma aplicação **Android Nativa em Kotlin** que consuma 
 - Uma tela com o icone, a frase, e o link para a pagina da piada da categoria escolhida. Ex.:  [Categoria `science`](https://api.chucknorris.io/jokes/random?category=science)
 
 ### Quais são os requisitos?
-- Deve ser escrita em Kotlin;
+- Deve ser escrita em Kotlin
 - Deve ter injeção de dependência com Dagger2
 - Deve utilizar RXJava
 
 ### Ganhe bonus
-- Testes Unitário;
-- Testes Funcionais;
-- Clean Architecture (MVP)
+- Testes Unitários
+- Testes Funcionais
+- Android Jetpack
+- Clean Architecture (MVP/MVVM)
 
 ### Como enviar o seu teste
 Envie um email para [frontmonstrao@guiabolso.com.br](mailto:frontmonstrao@guiabolso.com.br) com:
@@ -49,7 +50,7 @@ Envie um email para [frontmonstrao@guiabolso.com.br](mailto:frontmonstrao@guiabo
 
 ### Pontos de avaliação
 
-Veja, esse teste, além de um desafio, é uma forma de explorar e expressar sua desenvoltura com a plataforma iOS. O foco da avaliação é a sua familiaridade com o desenvolvimente, lembrando que há um caráter seletivo. 
+Veja, esse teste, além de um desafio, é uma forma de explorar e expressar sua desenvoltura com a plataforma Android. O foco da avaliação é a sua familiaridade com o desenvolvimente, lembrando que há um caráter seletivo. 
 
 Nesse sentido, alguns pontos que devem ser observados:
 
