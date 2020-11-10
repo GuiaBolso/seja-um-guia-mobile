@@ -9,7 +9,8 @@ Em um ambiente descontraído, prezamos pela qualidade e participação ativa dos
 Hoje trabalhamos com alguns grandes produtos:
 
 - **Controle financeiro**: uma ferramenta para gerenciamento de finanças pessoais, em um aplicativo, que se integra automaticamente com sua conta bancária (use e veja **;)**);
-- **Crédito pessoal**: canais de aquisição para crédito pessoal, com foco em ajudar o nosso usuário a sair daquela situação chata com o cartão ou o cheque especial.
+- **Produtos financeiros**: canais de aquisição para produtos como cédito pessoal, cartão de crédito, investimento, seguro, previdência, etc
+- **Transações**: transferir e receber dinheiro 24hs
 
 ### Gostou de tudo que está aí em cima? Então vem pra cá!!!
 
@@ -61,7 +62,7 @@ Nesse sentido, alguns pontos que devem ser observados:
 - Como você organiza seus arquivos, métodos, nomeia variáveis, lida com o seu código como um todo são outros pontos observados. Seja cuidadoso, utilize boas práticas e padrões.
 - Siga o guideline do Material, bem como respeite as boas práticas do Kotlin.
 - Codifique como você gostaria de trabalhar.
-- **Leia todo o desafio, 3 vezes, até o final e escreva "Batata" no final do seu e-mail de entrega.**
+- **Leia todo o desafio, 3 vezes, até o final e escreva "Gelatina de uva" no final do seu e-mail de entrega.**
 
 Vamos ler seu código, apreciar o resultado, olhar, testar. Invista o tempo necessário para fazer um desafio que demonstre o resumo das suas capacidades técnicas. Faça com carinho.
 
@@ -71,4 +72,4 @@ Obrigado e boa sorte!
 
 <a rel="license" href="http://creativecommons.org/licenses/by/3.0/br/"><img alt="Licença Creative Commons" style="border-width:0" src="https://i.creativecommons.org/l/by/3.0/br/88x31.png" /></a><br />Este repositório, texto, códigos e forks estão licenciados com uma Licença <a rel="license" href="http://creativecommons.org/licenses/by/3.0/br/">Creative Commons Atribuição 3.0 Brasil</a>.
 
-As imagens e o nome **Guiabolso** são de propriedade do Guiabolso. Todos os direitos reservados **(c) 2018**.
+As imagens e o nome **Guiabolso** são de propriedade do Guiabolso. Todos os direitos reservados **(c) 2020**.
