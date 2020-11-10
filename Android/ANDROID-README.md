@@ -40,6 +40,9 @@ Você deve desenvolver uma aplicação **Android Nativa em Kotlin** que consuma 
 - Testes Funcionais
 - Android Jetpack
 - Clean Architecture (MVP/MVVM)
+- Tratar erros (Network, etc)
+- Implementar funcionalidade de favoritar Jokes (deve funcionar offline)
+- Implementar funcionalidade de pesquisa de Jokes
 
 ### Como enviar o seu teste
 Envie um email para [frontmonstrao@guiabolso.com.br](mailto:frontmonstrao@guiabolso.com.br) com:
