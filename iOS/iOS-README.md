@@ -35,8 +35,9 @@ Você deve desenvolver uma aplicação **iOS Nativa em Swift** que consuma a API
 - Uma tela com o icone, a frase, e o link para a pagina da piada da categoria escolhida. Ex.:  [Categoria `science`](https://api.chucknorris.io/jokes/random?category=science)
 
 ### Quais são os requisitos?
-- Versão minima do iOS: 9.*;
+- Versão minima do iOS: 10.*;
 - Deve ser escrita em Swift;
+- Não usar SwiftUI (pelo menos por enquanto)
 
 ### Ganhe bonus
 - Recomendada a utilização do Cocoapods;
